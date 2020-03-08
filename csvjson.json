@@ -1,0 +1,394 @@
+[
+	{
+		"Crop": "ARHAR",
+		"State": "Uttar Pradesh",
+		"CostofCultivationA2FL": 9794.05,
+		"Cost of Cultivation (`/Hectare) C2": 23076.74,
+		"CostofProductionC2": 1941.55,
+		"Yield": 9.83
+	},
+	{
+		"Crop": "ARHAR",
+		"State": "Karnataka",
+		"CostofCultivationA2FL": 10593.15,
+		"Cost of Cultivation (`/Hectare) C2": 16528.68,
+		"CostofProductionC2": 2172.46,
+		"Yield": 7.47
+	},
+	{
+		"Crop": "ARHAR",
+		"State": "Gujarat",
+		"CostofCultivationA2FL": 13468.82,
+		"Cost of Cultivation (`/Hectare) C2": 19551.9,
+		"CostofProductionC2": 1898.3,
+		"Yield": 9.59
+	},
+	{
+		"Crop": "ARHAR",
+		"State": "Andhra Pradesh",
+		"CostofCultivationA2FL": 17051.66,
+		"Cost of Cultivation (`/Hectare) C2": 24171.65,
+		"CostofProductionC2": 3670.54,
+		"Yield": 6.42
+	},
+	{
+		"Crop": "ARHAR",
+		"State": "Maharashtra",
+		"CostofCultivationA2FL": 17130.55,
+		"Cost of Cultivation (`/Hectare) C2": 25270.26,
+		"CostofProductionC2": 2775.8,
+		"Yield": 8.72
+	},
+	{
+		"Crop": "COTTON",
+		"State": "Maharashtra",
+		"CostofCultivationA2FL": 23711.44,
+		"Cost of Cultivation (`/Hectare) C2": 33116.82,
+		"CostofProductionC2": 2539.47,
+		"Yield": 12.69
+	},
+	{
+		"Crop": "COTTON",
+		"State": "Punjab",
+		"CostofCultivationA2FL": 29047.1,
+		"Cost of Cultivation (`/Hectare) C2": 50828.83,
+		"CostofProductionC2": 2003.76,
+		"Yield": 24.39
+	},
+	{
+		"Crop": "COTTON",
+		"State": "Andhra Pradesh",
+		"CostofCultivationA2FL": 29140.77,
+		"Cost of Cultivation (`/Hectare) C2": 44756.72,
+		"CostofProductionC2": 2509.99,
+		"Yield": 17.83
+	},
+	{
+		"Crop": "COTTON",
+		"State": "Gujarat",
+		"CostofCultivationA2FL": 29616.09,
+		"Cost of Cultivation (`/Hectare) C2": 42070.44,
+		"CostofProductionC2": 2179.26,
+		"Yield": 19.05
+	},
+	{
+		"Crop": "COTTON",
+		"State": "Haryana",
+		"CostofCultivationA2FL": 29918.97,
+		"Cost of Cultivation (`/Hectare) C2": 44018.18,
+		"CostofProductionC2": 2127.35,
+		"Yield": 19.9
+	},
+	{
+		"Crop": "GRAM",
+		"State": "Rajasthan",
+		"CostofCultivationA2FL": 8552.69,
+		"Cost of Cultivation (`/Hectare) C2": 12610.85,
+		"CostofProductionC2": 1691.66,
+		"Yield": 6.83
+	},
+	{
+		"Crop": "GRAM",
+		"State": "Madhya Pradesh",
+		"CostofCultivationA2FL": 9803.89,
+		"Cost of Cultivation (`/Hectare) C2": 16873.17,
+		"CostofProductionC2": 1551.94,
+		"Yield": 10.29
+	},
+	{
+		"Crop": "GRAM",
+		"State": "Uttar Pradesh",
+		"CostofCultivationA2FL": 12833.04,
+		"Cost of Cultivation (`/Hectare) C2": 21618.43,
+		"CostofProductionC2": 1882.68,
+		"Yield": 10.93
+	},
+	{
+		"Crop": "GRAM",
+		"State": "Maharashtra",
+		"CostofCultivationA2FL": 12985.95,
+		"Cost of Cultivation (`/Hectare) C2": 18679.33,
+		"CostofProductionC2": 2277.68,
+		"Yield": 8.05
+	},
+	{
+		"Crop": "GRAM",
+		"State": "Andhra Pradesh",
+		"CostofCultivationA2FL": 14421.98,
+		"Cost of Cultivation (`/Hectare) C2": 26762.09,
+		"CostofProductionC2": 1559.04,
+		"Yield": 16.69
+	},
+	{
+		"Crop": "GROUNDNUT",
+		"State": "Karnataka",
+		"CostofCultivationA2FL": 13647.1,
+		"Cost of Cultivation (`/Hectare) C2": 17314.2,
+		"CostofProductionC2": 3484.01,
+		"Yield": 4.71
+	},
+	{
+		"Crop": "GROUNDNUT",
+		"State": "Andhra Pradesh",
+		"CostofCultivationA2FL": 21229.01,
+		"Cost of Cultivation (`/Hectare) C2": 30434.61,
+		"CostofProductionC2": 2554.91,
+		"Yield": 11.97
+	},
+	{
+		"Crop": "GROUNDNUT",
+		"State": "Tamil Nadu",
+		"CostofCultivationA2FL": 22507.86,
+		"Cost of Cultivation (`/Hectare) C2": 30393.66,
+		"CostofProductionC2": 2358,
+		"Yield": 11.98
+	},
+	{
+		"Crop": "GROUNDNUT",
+		"State": "Gujarat",
+		"CostofCultivationA2FL": 22951.28,
+		"Cost of Cultivation (`/Hectare) C2": 30114.45,
+		"CostofProductionC2": 1918.92,
+		"Yield": 13.45
+	},
+	{
+		"Crop": "GROUNDNUT",
+		"State": "Maharashtra",
+		"CostofCultivationA2FL": 26078.66,
+		"Cost of Cultivation (`/Hectare) C2": 32683.46,
+		"CostofProductionC2": 3207.35,
+		"Yield": 9.33
+	},
+	{
+		"Crop": "MAIZE",
+		"State": "Bihar",
+		"CostofCultivationA2FL": 13513.92,
+		"Cost of Cultivation (`/Hectare) C2": 19857.7,
+		"CostofProductionC2": 404.43,
+		"Yield": 42.95
+	},
+	{
+		"Crop": "MAIZE",
+		"State": "Karnataka",
+		"CostofCultivationA2FL": 13792.85,
+		"Cost of Cultivation (`/Hectare) C2": 20671.54,
+		"CostofProductionC2": 581.69,
+		"Yield": 31.1
+	},
+	{
+		"Crop": "MAIZE",
+		"State": "Rajasthan",
+		"CostofCultivationA2FL": 14421.46,
+		"Cost of Cultivation (`/Hectare) C2": 19810.29,
+		"CostofProductionC2": 658.77,
+		"Yield": 23.56
+	},
+	{
+		"Crop": "MAIZE",
+		"State": "Uttar Pradesh",
+		"CostofCultivationA2FL": 15635.43,
+		"Cost of Cultivation (`/Hectare) C2": 21045.11,
+		"CostofProductionC2": 1387.36,
+		"Yield": 13.7
+	},
+	{
+		"Crop": "MAIZE",
+		"State": "Andhra Pradesh",
+		"CostofCultivationA2FL": 25687.09,
+		"Cost of Cultivation (`/Hectare) C2": 37801.85,
+		"CostofProductionC2": 840.58,
+		"Yield": 42.68
+	},
+	{
+		"Crop": "MOONG",
+		"State": "Orissa",
+		"CostofCultivationA2FL": 5483.54,
+		"Cost of Cultivation (`/Hectare) C2": 8266.98,
+		"CostofProductionC2": 2614.14,
+		"Yield": 3.01
+	},
+	{
+		"Crop": "MOONG",
+		"State": "Rajasthan",
+		"CostofCultivationA2FL": 6204.23,
+		"Cost of Cultivation (`/Hectare) C2": 9165.59,
+		"CostofProductionC2": 2068.67,
+		"Yield": 4.05
+	},
+	{
+		"Crop": "MOONG",
+		"State": "Karnataka",
+		"CostofCultivationA2FL": 6440.64,
+		"Cost of Cultivation (`/Hectare) C2": 7868.64,
+		"CostofProductionC2": 5777.48,
+		"Yield": 1.32
+	},
+	{
+		"Crop": "MOONG",
+		"State": "Andhra Pradesh",
+		"CostofCultivationA2FL": 6684.18,
+		"Cost of Cultivation (`/Hectare) C2": 13209.32,
+		"CostofProductionC2": 2228.97,
+		"Yield": 5.9
+	},
+	{
+		"Crop": "MOONG",
+		"State": "Maharashtra",
+		"CostofCultivationA2FL": 10780.76,
+		"Cost of Cultivation (`/Hectare) C2": 15371.45,
+		"CostofProductionC2": 2261.24,
+		"Yield": 6.7
+	},
+	{
+		"Crop": "PADDY",
+		"State": "Uttar Pradesh",
+		"CostofCultivationA2FL": 17022,
+		"Cost of Cultivation (`/Hectare) C2": 28144.5,
+		"CostofProductionC2": 732.62,
+		"Yield": 36.61
+	},
+	{
+		"Crop": "PADDY",
+		"State": "Orissa",
+		"CostofCultivationA2FL": 17478.05,
+		"Cost of Cultivation (`/Hectare) C2": 25909.05,
+		"CostofProductionC2": 715.04,
+		"Yield": 32.42
+	},
+	{
+		"Crop": "PADDY",
+		"State": "West Bengal",
+		"CostofCultivationA2FL": 24731.06,
+		"Cost of Cultivation (`/Hectare) C2": 33046.12,
+		"CostofProductionC2": 731.25,
+		"Yield": 39.04
+	},
+	{
+		"Crop": "PADDY",
+		"State": "Punjab",
+		"CostofCultivationA2FL": 25154.75,
+		"Cost of Cultivation (`/Hectare) C2": 45291.24,
+		"CostofProductionC2": 669.86,
+		"Yield": 67.41
+	},
+	{
+		"Crop": "PADDY",
+		"State": "Andhra Pradesh",
+		"CostofCultivationA2FL": 29664.84,
+		"Cost of Cultivation (`/Hectare) C2": 46450.2,
+		"CostofProductionC2": 789.9,
+		"Yield": 56
+	},
+	{
+		"Crop": "RAPESEED AND MUSTARD",
+		"State": "Madhya Pradesh",
+		"CostofCultivationA2FL": 8686.43,
+		"Cost of Cultivation (`/Hectare) C2": 17705.93,
+		"CostofProductionC2": 1279.6,
+		"Yield": 12.94
+	},
+	{
+		"Crop": "RAPESEED AND MUSTARD",
+		"State": "Rajasthan",
+		"CostofCultivationA2FL": 11385.7,
+		"Cost of Cultivation (`/Hectare) C2": 19259.84,
+		"CostofProductionC2": 1341.29,
+		"Yield": 13.54
+	},
+	{
+		"Crop": "RAPESEED AND MUSTARD",
+		"State": "Uttar Pradesh",
+		"CostofCultivationA2FL": 12774.41,
+		"Cost of Cultivation (`/Hectare) C2": 22560.3,
+		"CostofProductionC2": 1595.56,
+		"Yield": 13.57
+	},
+	{
+		"Crop": "RAPESEED AND MUSTARD",
+		"State": "Gujarat",
+		"CostofCultivationA2FL": 13740.64,
+		"Cost of Cultivation (`/Hectare) C2": 19083.55,
+		"CostofProductionC2": 1610.4,
+		"Yield": 11.61
+	},
+	{
+		"Crop": "RAPESEED AND MUSTARD",
+		"State": "Haryana",
+		"CostofCultivationA2FL": 14715.27,
+		"Cost of Cultivation (`/Hectare) C2": 27507.54,
+		"CostofProductionC2": 1251.12,
+		"Yield": 19.94
+	},
+	{
+		"Crop": "SUGARCANE",
+		"State": "Uttar Pradesh",
+		"CostofCultivationA2FL": 24538.32,
+		"Cost of Cultivation (`/Hectare) C2": 45239.51,
+		"CostofProductionC2": 93.64,
+		"Yield": 448.89
+	},
+	{
+		"Crop": "SUGARCANE",
+		"State": "Karnataka",
+		"CostofCultivationA2FL": 55655.44,
+		"Cost of Cultivation (`/Hectare) C2": 86765.77,
+		"CostofProductionC2": 86.53,
+		"Yield": 986.21
+	},
+	{
+		"Crop": "SUGARCANE",
+		"State": "Andhra Pradesh",
+		"CostofCultivationA2FL": 56621.16,
+		"Cost of Cultivation (`/Hectare) C2": 91442.63,
+		"CostofProductionC2": 119.72,
+		"Yield": 757.92
+	},
+	{
+		"Crop": "SUGARCANE",
+		"State": "Maharashtra",
+		"CostofCultivationA2FL": 57673.6,
+		"Cost of Cultivation (`/Hectare) C2": 85801.95,
+		"CostofProductionC2": 107.56,
+		"Yield": 744.01
+	},
+	{
+		"Crop": "SUGARCANE",
+		"State": "Tamil Nadu",
+		"CostofCultivationA2FL": 66335.06,
+		"Cost of Cultivation (`/Hectare) C2": 89025.27,
+		"CostofProductionC2": 85.79,
+		"Yield": 1015.45
+	},
+	{
+		"Crop": "WHEAT",
+		"State": "Madhya Pradesh",
+		"CostofCultivationA2FL": 12464.4,
+		"Cost of Cultivation (`/Hectare) C2": 22489.75,
+		"CostofProductionC2": 810.25,
+		"Yield": 23.59
+	},
+	{
+		"Crop": "WHEAT",
+		"State": "Punjab",
+		"CostofCultivationA2FL": 17945.58,
+		"Cost of Cultivation (`/Hectare) C2": 35423.48,
+		"CostofProductionC2": 804.8,
+		"Yield": 39.83
+	},
+	{
+		"Crop": "WHEAT",
+		"State": "Uttar Pradesh",
+		"CostofCultivationA2FL": 18979.38,
+		"Cost of Cultivation (`/Hectare) C2": 31902.74,
+		"CostofProductionC2": 769.84,
+		"Yield": 34.99
+	},
+	{
+		"Crop": "WHEAT",
+		"State": "Rajasthan",
+		"CostofCultivationA2FL": 19119.08,
+		"Cost of Cultivation (`/Hectare) C2": 29876.36,
+		"CostofProductionC2": 683.58,
+		"Yield": 37.19
+	}
+]
