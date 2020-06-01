@@ -276,17 +276,15 @@ async function getData(crop) {
 	chartIt(xs, ys, zs, ws, vs);
 }
 
-// if (main.innerHTML) {
-// 	main.innerHTML = "";
-// 	getData("ARHAR");
-// }
-
-ul.addEventListener("click", handleClick);
 function handleClick(event) {
 	if (event.target.tagName == "SPAN") {
 		getData(event.target.innerHTML);
 	}
 }
+
+getData("ARHAR");
+
+ul.addEventListener("click", handleClick);
 
 for (var i = 0; i < btns.length; i++) {
 	btns[i].addEventListener("click", handleActiveClass);

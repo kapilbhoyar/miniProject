@@ -38,10 +38,23 @@ li {
 
 canvas {
 	justify-content: center;
-	padding-bottom: 100px;
+	padding-bottom: 25px;
+	height: 130px;
+}
+.graph-container {
+	margin: 2rem auto 4rem auto;
 }
 .crop-name {
 	margin-right: 5px;
+}
+.card {
+	border: none;
+}
+.container {
+	margin-bottom: 2rem !important;
+	padding: 1rem;
+	border-radius: 6px;
+	box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23) !important;
 }
 .active,
 .crop-name:hover {
